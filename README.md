@@ -1,0 +1,1 @@
+# macOS-26-Tahoe-can-t-boot-on-unsupported-T2-Macs---that-s-why
