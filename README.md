@@ -15,3 +15,4 @@ boyan@Mac-mini-von-Boyan ~ % ioreg -l | grep board-id
 
     |         "board-id" = <"Mac-CFF7D910A743CAAF">
 The same issue for not being able to boot macOS 26 Tahoe on unsupported T2 Macs isn't limited to the official OpenCore Legacy Patcher repository - it applies to OCLP-Mod too. OCLP-Mod fixes some macOS 26 compatability issues on unsupported Macs, but I recommend to stick with the official OpenCore Legacy Patcher repository instead as OCLP-Mod's UI is a buggy mess at best, full with experimental features that aren't quite stable. This is not the sole issue - it's also missing drivers, which are the tip of the iceberg.
+I'm looking for contributors for this project to be able to add T2 support for OpenCore Legacy Patcher: https://github.com/p8bpg9zrw7-collab/OpenCore-Legacy-Patcher-T2
